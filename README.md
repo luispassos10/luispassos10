@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Luís Passos
 
-🔹 Estudante de **Engenharia de Telecomunicações e Informática** no **ISEP**  
+🔹 Licenciado em **Engenharia de Telecomunicações e Informática** no **ISEP**  
 🔹 Interesse em **desenvolvimento backend, sistemas distribuídos e DevOps**  
-🔹 Trabalhando com **Java, JavaScript, Python, C, C++, Spring Boot, React, Node.js, Android, Express.js**  
+🔹 Trabalhos que contem **Java, JavaScript, Python, C, C++, Spring Boot, React, Node.js, Android, Express.js**  
 
 ## 🚀 Tecnologias & Ferramentas  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
